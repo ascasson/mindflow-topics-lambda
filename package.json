@@ -1,0 +1,23 @@
+{
+  "name": "topics-lambda",
+  "version": "0.0.0",
+  "description": "Mindflow topics lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ascasson/mindflow-topics-lambda.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ascasson/mindflow-topics-lambda/issues"
+  },
+  "homepage": "https://github.com/ascasson/mindflow-topics-lambda#readme",
+  "dependencies": {
+    "aws-sdk": "^2.747.0",
+    "uuid": "^8.3.0"
+  }
+}
